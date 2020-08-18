@@ -12,8 +12,7 @@ export default function Dump(props) {
 	}
 
 	return (
-		<div style={{margin: '1rem 0'}}>
-			<h3 style={{fontFamily: 'monospace'}}/>
+		<div style={{margin: '1rem 0', fontFamily: 'monospace'}}>
 			<small>
 				<pre style={{
 					background: '#f0f3f5',
