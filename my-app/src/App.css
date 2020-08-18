@@ -24,6 +24,11 @@
   color: white;
 }
 
+.stopwatch-container {
+  border: 1px solid red;
+  font-size: 25px;
+}
+
 .App-link {
   color: #61dafb;
 }

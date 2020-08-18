@@ -5,9 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="Stopwatch App">
-      <div className="stopwatch-container">
         <Stopwatch />
-      </div>
     </div>
   );
 }
